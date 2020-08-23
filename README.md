@@ -3,7 +3,7 @@
 Responsive sidebar template based on Bootstrap 4 framework
 
 # Screenshot
-<img src="https://github.com/aleiva3476/bootstrap-sidebar-template/blob/master/screenshot.jpg">
+<img src="https://github.com/aleiva3476/bootstrap-sidebar-template/blob/master/screenshot.jpg" height="400">
 
 # Resources
 
